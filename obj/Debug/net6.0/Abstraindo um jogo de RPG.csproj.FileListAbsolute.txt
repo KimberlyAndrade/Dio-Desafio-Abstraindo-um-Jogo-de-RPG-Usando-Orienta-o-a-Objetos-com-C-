@@ -1,0 +1,15 @@
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.csproj.AssemblyReference.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.AssemblyInfoInputs.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.AssemblyInfo.cs
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.csproj.CoreCompileInputs.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.exe
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.deps.json
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.runtimeconfig.json
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\bin\Debug\net6.0\Abstraindo um jogo de RPG.pdb
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\refint\Abstraindo um jogo de RPG.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.pdb
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\Abstraindo um jogo de RPG.genruntimeconfig.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Abstraindo um jogo de RPG\obj\Debug\net6.0\ref\Abstraindo um jogo de RPG.dll
